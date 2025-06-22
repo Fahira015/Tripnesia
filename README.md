@@ -1,25 +1,25 @@
-# Compventory
+# Tripnesia
 
 **Mata kuliah:** Pemrograman Berorientasi Objek  
 **Dosen Pengampu:** Herika Hayurani, S.Kom., M.Kom.
 
-## Kelompok [HTP DEVELOPER]
-- **Nama:** Zild Jian X To  
+## Kelompok [F.N.M Trip]
+- **Nama:** Fahira Putri Ananta  
   **Kelas:** A  
-  **NIM:** 1402024054
+  **NPM:** 1402024015
 
-- **Nama:** Aditya Wijaya Putra  
+- **Nama:** Novi Dwi Aryani  
   **Kelas:** A  
-  **NIM:** 1402024004
+  **NPM:** 1402024046
 
-- **Nama:** Azhar Aulia Priatna  
+- **Nama:** Manda Asyazahra Aulia Putri  
   **Kelas:** A  
-  **NIM:** 1402024013
+  **NPM:** 1402024027
 
 ## Deskripsi
-Berkas ini menjelaskan kelengkapan berkas proyek akhir kami yang berjudul **Compventory**.
+Berkas ini menjelaskan kelengkapan berkas proyek akhir kami yang berjudul **Tripnesia**.
 
 Berkas terdiri dari:
-- File database SQL dengan nama database: `inventorydb`
+- File database SQL dengan nama database: `tripnesia`
 - Source code project (NetBeans)
 - Tautan Repository GitHub: [Tautan GitHub](https://github.com/Fahira015/Tripnesia)
